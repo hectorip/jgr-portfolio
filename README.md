@@ -1,4 +1,5 @@
 # Julian G. Ruiz
 
 
-Proyecto de portafolio persona para Julián García Ruíz
+Proyecto de portafolio persona para Julián García Ruíz.
+
