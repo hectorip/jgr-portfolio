@@ -22247,6 +22247,10 @@ video {
   src: url(../fonts/DINAlternate-Bold.ttf);
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&family=Darker+Grotesque&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque&display=swap');
+
 .font-j {
   font-family: "DIN", sans-serif;
   font-weight: bold;
@@ -22258,6 +22262,16 @@ video {
 
 .bg-db{
   background-color: #dbdbdb !important;
+}
+
+.description {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-s{
+  font-family: 'Darker Grotesque', sans-serif;
+  font-weight: 400 !important;
 }
 
 @media (min-width: 640px) {
