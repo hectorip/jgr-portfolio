@@ -4,3 +4,18 @@
 
 @tailwind utilities;
 
+@font-face {
+    font-family: DIN;
+    src: url(../fonts/DINAlternate-Bold.ttf);
+}
+
+.font-j {
+    font-family: "DIN", sans-serif;
+    font-weight: bold;
+}
+.bg-blue-j{
+    background-color: #156FAE;
+}
+.bg-db{
+    background-color: #dbdbdb !important;
+}
